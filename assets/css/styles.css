@@ -1,0 +1,29 @@
+body {
+  background: rgb(255,255,255);
+}
+
+a{
+  text-decoration: none;
+  color:black;
+}
+
+@media (min-width: 768px) {
+  ul {
+  }
+}
+
+@media (min-width: 768px) {
+  .card-body-experience {
+  }
+}
+
+@media (min-width: 768px) {
+  .card_experience {
+  }
+}
+
+@media (min-width: 992px) {
+  .container_medium {
+  }
+}
+
